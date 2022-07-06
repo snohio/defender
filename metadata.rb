@@ -1,0 +1,7 @@
+name 'defender'
+maintainer 'Mike Butler'
+maintainer_email 'michael.butler@progress.com'
+license 'All Rights Reserved'
+description 'Installs/Configures defender'
+version '0.1.1'
+chef_version '>= 16.0'
